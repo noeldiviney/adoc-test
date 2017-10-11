@@ -1,6 +1,5 @@
-_______________________________________________________________
-image:images/image1.jpg["image",200,200,role="right"] **Features**
-_______________________________________________________________
+== Features
+image:images/image1.jpg["image",200,200,role="right"]
 
 * Implements quadrature decoder for rotary shaft encoders.
 * Returns position and direction of rotation.
@@ -25,7 +24,7 @@ run simultaneously in the project interfacing several encoders.
 
 [[when-to-use-decoder-component]]
 
-image:images/image2.jpg[image,width=96,height=96]       When to use Decoder
+image:images/image2.jpg[image,width=96,height=96,role="right"]       When to use Decoder
 component
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
