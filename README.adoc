@@ -1,3 +1,4 @@
+////
 == Features
 
 * Implements quadrature decoder for rotary shaft encoders.
@@ -9,7 +10,7 @@
 * Uses interrupt or polling technique.
 
 image:images/image1.jpg["image",126,153,role="right"]
-
+////
 [[general-description]]
 General description
 -------------------
