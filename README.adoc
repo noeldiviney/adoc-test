@@ -1,7 +1,9 @@
 
 == Features
 
-image:images/image1.jpg["image",126,153,role="right"] * Implements quadrature decoder for rotary shaft encoders.
+image:images/image1.jpg["image",126,153,role="right"] .
+
+* Implements quadrature decoder for rotary shaft encoders.
 * Returns position and direction of rotation.
 * 8-bit, 16-bit, 32-bit, single or double position range.
 * Optional button switch with debouncing.
