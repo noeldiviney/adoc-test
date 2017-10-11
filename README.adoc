@@ -1,5 +1,4 @@
-== Features
-image:images/image1.jpg["image",200,200,role="right"]
+image:images/image1.jpg["image",200,200,role="right"] ==Features
 
 * Implements quadrature decoder for rotary shaft encoders.
 * Returns position and direction of rotation.
